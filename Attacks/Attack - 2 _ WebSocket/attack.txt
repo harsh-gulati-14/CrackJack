@@ -1,0 +1,5 @@
+Tool Used : Burp Suite
+Connect to the website using Burp Suite Browser
+Enable Socket Connections
+Observe the chat messages (Man-In-The-Middle Attack Simulation)
+Resend Some Messages
